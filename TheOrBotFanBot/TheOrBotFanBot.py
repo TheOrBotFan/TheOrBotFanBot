@@ -12,7 +12,7 @@ reddit = praw.Reddit(client_id='RV7Pwgsf_9wKLw',
                      user_agent="TheOrBot's #1 fan Bot")
 
 # the subreddits you want your bot to live on
-subreddit = reddit.subreddit('teenagersnew')
+subreddit = reddit.subreddit('JustBlackMetalThings')
 
 # phrase to activate the bot
 tie = 'we tied, I got:'
