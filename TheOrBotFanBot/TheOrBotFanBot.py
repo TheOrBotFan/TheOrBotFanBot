@@ -26,7 +26,7 @@ for comment in subreddit.stream.comments():
     else:
       if win in comment.body:
           print('proud of u')
-        else:
-          if lose in comment.body:
+      else:
+        if lose in comment.body:
             print("that's okay you'll get better don't worry")
         
